@@ -1,4 +1,15 @@
 # RAG-Based Data Analysis Chatbot using Local LLMs
+## Academic Context
+
+This project was developed as part of academic work at **Blekinge Institute of Technology (BTH)**.
+
+The goal of the project is to explore **Retrieval-Augmented Generation (RAG)** techniques for performing data analysis using locally hosted Large Language Models (LLMs). The system enables natural language interaction with structured datasets and generates analytical insights through a modular AI pipeline.
+## Author
+
+**Rami M V**
+Student – Blekinge Institute of Technology
+Program: Bachelor of Computer Science
+
 
 This project implements a **Retrieval-Augmented Generation (RAG) based chatbot** that performs data analysis on datasets using **locally hosted Large Language Models (LLMs)**.
 
