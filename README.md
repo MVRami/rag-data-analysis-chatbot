@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![AI](https://img.shields.io/badge/AI-RAG-green)
+![LLM](https://img.shields.io/badge/LLM-Local-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # RAG-Based Data Analysis Chatbot using Local LLMs
 ## Academic Context
 
